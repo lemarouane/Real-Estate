@@ -7,7 +7,7 @@
   [![YouTube Video Views](https://img.shields.io/youtube/views/6HZ4nZmU_pE?style=social)](https://youtu.be/6HZ4nZmU_pE)
 
   <br />
-  <br />
+  <br /> 
   
   <img src="./readme-images/project-logo.png" />
 
